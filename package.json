@@ -1,6 +1,6 @@
 {
   "name": "koenigsberg_graph",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "koenigsberg_graph is javascript library for graph theory. This library run client side.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
