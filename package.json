@@ -1,6 +1,6 @@
 {
   "name": "koenigsberg_graph",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "koenigsberg_graph is javascript library for graph theory. This library run client side.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,6 +10,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "bugs": {
+    "url": "https://github.com/oumugai/koenigsberg_graph/issues"
+  },
+  "homepage": "https://github.com/oumugai/koenigsberg_graph",
   "author": "oumugai",
   "license": "MIT",
   "dependencies": {
